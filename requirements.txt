@@ -4,3 +4,4 @@ jugaad_data
 streamlit_autorefresh
 plotly
 yfinance
+nsetools
