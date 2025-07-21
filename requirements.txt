@@ -1,0 +1,6 @@
+streamlit
+pandas
+jugaad_data
+streamlit_autorefresh
+plotly
+yfinance
