@@ -30,13 +30,7 @@ Welcome to **LiveStocks**, a personal project built as part of my learning journ
 - `jugaad_data.nse`, `nsetools`
 - Pandas, Plotly, Statistics module
 
-## 💻 Screenshots
 
-### Analysis View
-![Stock Analysis](https://livestocks1.streamlit.app/Analysis)
-
-### Comparison View
-![Comparison](https://livestocks1.streamlit.app/Comparision)
 
 ## 🧪 Try It Live
 
